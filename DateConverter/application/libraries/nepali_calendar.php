@@ -402,7 +402,7 @@
 		 * @param unknown_type $dd
 		 * @return unknown
 		 */
-		public function nep_to_eng($yy,$mm,$dd){
+		public function BS_to_AD($yy,$mm,$dd){
 			
 			$def_eyy = 1943	; $def_emm=4 ; $def_edd=14-1;		// init english date.
 			$def_nyy = 2000; $def_nmm = 1; $def_ndd = 1;		// equivalent nepali date.
